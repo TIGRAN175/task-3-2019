@@ -1,0 +1,13 @@
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\bin\Debug\RTS game.exe.config
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\bin\Debug\RTS game.exe
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\bin\Debug\RTS game.pdb
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS_game.Form1.resources
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS_game.Properties.Resources.resources
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.csproj.GenerateResource.Cache
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.exe
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.pdb
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.csprojAssemblyReference.cache
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.csproj.CoreCompileInputs.cache
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\bin\Debug\System.ValueTuple.dll
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\bin\Debug\System.ValueTuple.xml
+C:\Users\TiG\documents\visual studio 2017\Projects\RTS game\RTS game\obj\Debug\RTS game.csproj.CopyComplete
